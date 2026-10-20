@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5A1F,100:0D0B09&height=180&section=header" alt="Header" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF5A1F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+en+formaci%C3%B3n;React+%2B+Node+%2B+IA;Electr%C3%B3nica+industrial+%E2%86%92+Software" alt="Typing banner" />
 </div>
 
@@ -72,3 +76,8 @@ Sistema de gestión de reservas multirol (cliente, admin y público) para un res
 ---
 
 > *"Lo escaso y valioso no es el código generado, sino el criterio de quien decide qué construir y por qué."*
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B09,100:FF5A1F&height=120&section=footer" alt="Footer" width="100%" />
+</div>
