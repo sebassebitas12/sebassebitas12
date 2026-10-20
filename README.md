@@ -8,7 +8,7 @@ Desarrollador web en formación · Construyo interfaces que integran IA de forma
 
 ---
 
-## Sobre mí
+## $ whoami
 
 Estoy cursando **Programación Front End con IA Aplicada** en FWD Costa Rica, donde aprendo a construir aplicaciones web reales combinando JavaScript moderno e Inteligencia Artificial.
 
@@ -16,7 +16,7 @@ Me interesa que la IA no sea solo un adorno en los proyectos: me gusta integrarl
 
 ---
 
-## 🛠️ Tecnologías con las que trabajo
+## $ cat tech-stack.yaml
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,git,github&perline=9" alt="Tecnologías" />
@@ -26,7 +26,7 @@ Me interesa que la IA no sea solo un adorno en los proyectos: me gusta integrarl
 
 ---
 
-## 🚀 Proyectos destacados
+## $ ls proyectos/
 
 ### 🏥 [Dali Medica — Sistema Administrativo Web](https://github.com/sebassebitas12/dali-medica)
 Sistema web administrativo para una clínica ficticia con CRUD de clientes, productos y proveedores. Construido con HTML/CSS/JS puro y LocalStorage. Trabajo en equipo con control de versiones en GitHub.
@@ -44,7 +44,7 @@ Sistema de gestión de reservas multirol (cliente, admin y público) para un res
 
 ---
 
-## 📈 Actualmente
+## $ git log --current
 
 - 🌱 Aprofundizando en **JavaScript asíncrono** y consumo de APIs REST
 - 🤖 Explorando integración de **IA (Claude API)** en aplicaciones web reales
@@ -52,7 +52,7 @@ Sistema de gestión de reservas multirol (cliente, admin y público) para un res
 
 ---
 
-## 📬 Contacto
+## $ connect --socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebasti%C3%A1n_Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-flores-miranda)
 [![Email](https://img.shields.io/badge/Email-sebasflores992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasflores992@gmail.com)
