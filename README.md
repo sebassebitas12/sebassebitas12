@@ -60,6 +60,10 @@ Sistema de gestión de reservas multirol (cliente, admin y público) para un res
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sebassebitas12/sebassebitas12/output/github-snake-dark.svg" alt="Snake de contribuciones" />
+</div>
+
 ## $ connect --socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebasti%C3%A1n_Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-flores-miranda)
