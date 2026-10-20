@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF5A1F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+en+formaci%C3%B3n;React+%2B+Node+%2B+IA;Electr%C3%B3nica+industrial+%E2%86%92+Software" alt="Typing banner" />
+</div>
+
 # Hola, soy Sebastián Flores 👋
 
 Desarrollador web en formación · Construyo interfaces que integran IA de forma útil · Costa Rica 🇨🇷
