@@ -34,6 +34,14 @@ Sistema web administrativo para una clínica ficticia con CRUD de clientes, prod
 ### 💼 [TicoTalent — Plataforma de Empleabilidad](https://github.com/sebassebitas12/tico-talent)
 Frontend de un sistema de gestión de talento humano que consume la API pública DummyJSON mediante Fetch API con async/await. Incluye autenticación con JWT, 6 módulos CRUD y manejo de sesiones. Proyecto grupal de 5 personas.
 
+### 🖨️ [Vértice CR — Tienda de Impresión 3D](https://github.com/sebassebitas12/vertice-cr)
+
+Startup real de impresión 3D con identidad propia: elegante, futurista e industrial. Tienda web en React + Vite con catálogo, cotización y paneles de cliente y administrador.
+
+### 🍽️ [Donde Ray — Reservas para Restaurante Caribeño](https://github.com/sebassebitas12/restaurante-solucion-reservas.git)
+
+Sistema de gestión de reservas multirol (cliente, admin y público) para un restaurante de cocina caribeña en Limón. React + Vite + JSON Server, con comprobantes en PDF y QR. Proyecto en equipo de 4 personas.
+
 ---
 
 ## 📈 Actualmente
