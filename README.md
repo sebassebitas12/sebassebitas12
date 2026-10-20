@@ -45,8 +45,8 @@ Frontend de un sistema de gestión de talento humano que consume la API pública
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU-USUARIO-LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[TU-CORREO])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebasti%C3%A1n_Flores-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-flores-miranda)
+[![Email](https://img.shields.io/badge/Email-sebasflores992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasflores992@gmail.com)
 
 ---
 
