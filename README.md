@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF5A1F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+en+formaci%C3%B3n;React+%2B+Node+%2B+IA;Electr%C3%B3nica+industrial+%E2%86%92+Software" alt="Typing banner" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sebassebitas12&color=FF5A1F&style=for-the-badge&label=VISITAS" alt="Visitas" />
+</div>
+
 # Hola, soy Sebastián Flores 👋
 
 Desarrollador web en formación · Construyo interfaces que integran IA de forma útil · Costa Rica 🇨🇷
@@ -49,6 +53,10 @@ Sistema de gestión de reservas multirol (cliente, admin y público) para un res
 - 🌱 Aprofundizando en **JavaScript asíncrono** y consumo de APIs REST
 - 🤖 Explorando integración de **IA (Claude API)** en aplicaciones web reales
 - 📚 Cursando Front End con IA Aplicada en **FWD Costa Rica**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebassebitas12&show_icons=true&theme=dark&hide_border=true&bg_color=0D0B09&title_color=FF5A1F&icon_color=FF5A1F" alt="Estadísticas" />
+</div>
 
 ---
 
